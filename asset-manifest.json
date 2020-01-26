@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Pathfinding_Algorithms/static/css/main.8ccbae7c.chunk.css",
+    "main.js": "/Pathfinding_Algorithms/static/js/main.3510f1d0.chunk.js",
+    "main.js.map": "/Pathfinding_Algorithms/static/js/main.3510f1d0.chunk.js.map",
+    "runtime-main.js": "/Pathfinding_Algorithms/static/js/runtime-main.3a3d5b3d.js",
+    "runtime-main.js.map": "/Pathfinding_Algorithms/static/js/runtime-main.3a3d5b3d.js.map",
+    "static/js/2.3d37e7e7.chunk.js": "/Pathfinding_Algorithms/static/js/2.3d37e7e7.chunk.js",
+    "static/js/2.3d37e7e7.chunk.js.map": "/Pathfinding_Algorithms/static/js/2.3d37e7e7.chunk.js.map",
+    "index.html": "/Pathfinding_Algorithms/index.html",
+    "precache-manifest.38a05ce01352ac4b0055d05d8ebac802.js": "/Pathfinding_Algorithms/precache-manifest.38a05ce01352ac4b0055d05d8ebac802.js",
+    "service-worker.js": "/Pathfinding_Algorithms/service-worker.js",
+    "static/css/main.8ccbae7c.chunk.css.map": "/Pathfinding_Algorithms/static/css/main.8ccbae7c.chunk.css.map",
+    "static/media/Node.scss": "/Pathfinding_Algorithms/static/media/dot.783620ca.png",
+    "static/media/footer.css": "/Pathfinding_Algorithms/static/media/start.e5046bdc.png",
+    "static/media/weight.css": "/Pathfinding_Algorithms/static/media/wall.8cb336b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a3d5b3d.js",
+    "static/js/2.3d37e7e7.chunk.js",
+    "static/css/main.8ccbae7c.chunk.css",
+    "static/js/main.3510f1d0.chunk.js"
+  ]
+}
