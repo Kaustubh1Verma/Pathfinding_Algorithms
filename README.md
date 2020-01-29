@@ -1,7 +1,5 @@
 # Pathfinding_Algorithms
 
-# Pathfinding_Algorithms
-
 This is a react app hosted at https://kaustubh1verma.github.io/Pathfinding_Algorithms/ to visualize few pathfinding algorithms. Following algorithms are implemented in the react app
 1. Dijkstra
 2. Breadth first search.
