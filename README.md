@@ -7,5 +7,4 @@ This is a react app to visualize few pathfinding algorithms. Following algorithm
 4. A-star algorithm.
 5. Best first Search.
 
-Special thanks to https://github.com/clementmihailescu/Pathfinding-Visualizer whose was the inspiration behind 
-making this app completely in React JS.
+Special thanks to [link](https://github.com/clementmihailescu/Pathfinding-Visualizer) whose was the inspiration behind making this app completely in React JS.
